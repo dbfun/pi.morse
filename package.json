@@ -1,0 +1,18 @@
+{
+  "name": "board",
+  "version": "1.0.0",
+  "description": "orange pi one board test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "orangepi",
+    "board"
+  ],
+  "author": "Totalpusher",
+  "license": "ISC",
+  "dependencies": {
+    "morse": "^0.1.0"
+  }
+}
